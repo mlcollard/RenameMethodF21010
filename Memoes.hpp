@@ -9,7 +9,7 @@
 
 class Memoes {
 public:
-    int size() const;
+    int length() const;
 };
 
 #endif
